@@ -100,7 +100,7 @@ export default function Hero() {
           <div className="relative h-[680px] w-full overflow-hidden rounded-3xl shadow-2xl">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src="/hero-image.png"
+              src="/korabhs/hero-image.png"
               alt="Compassionate behavioral health care at home"
               className="h-full w-full object-cover"
             />
